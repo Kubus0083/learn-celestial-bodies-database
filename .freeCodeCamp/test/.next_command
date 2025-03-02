@@ -35,3 +35,13 @@ pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 ls --color=auto
 pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+psql -U postgres < universe.sql
+__vsc_prompt_cmd_original
+pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+__vsc_prompt_cmd_original
+pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+psql --username=freecodecamp --dbname=postgres
+ls --color=auto
+pg_dump -cC --inserts -U freecodecamp universe > universe.sql
